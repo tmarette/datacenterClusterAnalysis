@@ -77,5 +77,5 @@ manyRanks = [0, 0.3, 0.5, 0.7]
 ```
 k = 7
 ```
-- The k of the clustering algorithm for plotting
+- The number of clusters sought in the clustering algorithm
 

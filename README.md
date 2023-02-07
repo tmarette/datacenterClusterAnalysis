@@ -1,15 +1,26 @@
-This is the implementation used to produce the plots in the following paper:
+# Preamble
 
-```
-Klaus-Tycho Foerster, Thibault Marette, Stefan Neumann, Claudia Plant, Ylli Sadikaj, Stefan Schmid and Yllka Velaj:
-Analyzing the Communication Clusters in Datacenters. WWW"23. (2023)
-```
+    This code is © Klaus-Tycho Foerster, Thibault Marette, Stefan Neumann, Claudia Plant, Ylli Sadikaj, Stefan Schmid and Yllka Velaj 2023,
+    and it is made available under the GPL license enclosed with the software.
+
+    Over and above the legal restrictions imposed by this license, if you use this software for an academic publication then you are obliged to provide proper attribution. This can be to this code directly,
+
+        Klaus-Tycho Foerster, Thibault Marette, Stefan Neumann, Claudia Plant, Ylli Sadikaj, Stefan Schmid and Yllka Velaj:
+        data center Cluster Analysis (2023). github.com/tmarette/datacenterClusterAnalysis.
+
+    or to the paper featuring it,
+
+        Klaus-Tycho Foerster, Thibault Marette, Stefan Neumann, Claudia Plant, Ylli Sadikaj, Stefan Schmid and Yllka Velaj:
+        Analyzing the Communication Clusters in Datacenters. WWW"23. (2023)
+    or (ideally) both.
+
 
 The code runs using a preprocessed version of [Facebook's data center network](#https://research.facebook.com/blog/2017/01/data-sharing-on-traffic-pattern-inside-facebooks-datacenter-network/). We can make our input dataset available on demand.
 
-Contact:
+## Contact
 
 [marette@kth.se](mailto:marette@kth.se)
+
 [neum@kth.se](mailto:neum@kth.se)
 
 # Setup
